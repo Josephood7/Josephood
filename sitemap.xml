@@ -82,11 +82,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://josephood.com/external/maps/semimap-universities---simple/</loc>
+    <loc>https://josephood.com/external/maps/semicompany/semicompany/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://josephood.com/external/maps/semimap-universities/</loc>
+    <loc>https://josephood.com/external/maps/semiinstitution/semiinstitution/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -99,6 +99,14 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://josephood.com/external/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://josephood.com/external/maps/semicompany/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://josephood.com/external/maps/semiinstitution/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
